@@ -5,9 +5,9 @@
 - #️⃣ Conhecimento em HTML, CSS, JavaScript e Python
 
 <div align="center">
-  <a href="https://github.com/X-Rafa-X">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=X-Rafa-X&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Rafa-X&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/vastayeZa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vastayeZa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vastayeZa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>

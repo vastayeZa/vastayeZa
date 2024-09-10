@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vastayeZa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-IDE´s
+<h2 align="left">IDE´s</h2>
 
  <div>
    <a href = "#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
@@ -37,7 +37,7 @@ IDE´s
 </div>
 
   
-  Bases de Dados
+  <h2 align="left">Bases de Dados</h2>
 
  <div>
   <a href = "#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>

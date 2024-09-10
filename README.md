@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vastayeZa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##IDE´s
+IDE´s
 
  <div>
    <a href = "#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
@@ -35,9 +35,9 @@
    <a href = "mailto:albuquerquerafa367@gmail.com"/"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href = "https://www.linkedin.com/in/rafaella-albuquerque-aa9b06172/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </div>
-###
+
   
-  ##Bases de Dados
+  Bases de Dados
 
  <div>
   <a href = "#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>
